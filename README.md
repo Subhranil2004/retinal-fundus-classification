@@ -1,1 +1,1 @@
-# retinal-image-segmentation
+# Retinal Fundus Image Classification
